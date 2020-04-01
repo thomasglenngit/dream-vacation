@@ -1,0 +1,22 @@
+h2 {
+  font-size: 30px;
+  height: 35px;
+}
+
+.prospect {
+  text-decoration: underline;
+  text-shadow: blue;
+}
+
+a {
+  font-size: 25px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+img.align-center {
+  border-image: solid black;
+  
+}
