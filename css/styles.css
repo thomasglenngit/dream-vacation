@@ -24,3 +24,10 @@ img {
 div p ul li {
   font-size: 30px;
 }
+
+.panel body p img {
+  
+  float: left;
+  width: 400px;
+  border-image: 2px solid black;
+}
