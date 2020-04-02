@@ -16,7 +16,11 @@ h1 {
   font-size: 50px;
 }
 
-img.align-center {
+img {
   border-image: solid black;
-  
+  glyph-orientation-horizontal: inherit;
+}
+
+div p ul li {
+  font-size: 30px;
 }
